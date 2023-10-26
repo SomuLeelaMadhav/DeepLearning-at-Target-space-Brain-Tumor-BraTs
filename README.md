@@ -4,11 +4,7 @@
 
 Creating a comprehensive README for a deep learning project using the BraTS dataset for brain tumor detection, classification, segmentation, and the use of eXplainable AI (XAI) for generating preventive measures and tracking progress is essential to communicate the project's purpose, usage, and contributions. Below is a sample README template for your project:
 
----
 
-# Deep Learning for Brain Tumor Detection, Classification, Segmentation, and XAI Analysis
-
-![Brain Tumor](https://github.com/yourusername/yourrepository/images/brain_tumor.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -36,6 +32,10 @@ The project combines state-of-the-art deep learning models with advanced XAI tec
 ## Dataset
 
 The project utilizes the [BraTS dataset](https://www.med.upenn.edu/cbica/brats2021/data.html), a benchmark in the field of brain tumor research. The dataset includes multi-modal brain scans, allowing for comprehensive analysis and diagnosis. Researchers and contributors can access and download the dataset through the provided link.
+
+![Brain Tumor](https://github.com/SomuLeelaMadhav/DeepLearning-at-Target-space-Brain-Tumor-BraTs/raw/main/download%20(6).png)
+
+
 
 ## Model Architecture
 
