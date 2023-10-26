@@ -5,17 +5,6 @@
 Creating a comprehensive README for a deep learning project using the BraTS dataset for brain tumor detection, classification, segmentation, and the use of eXplainable AI (XAI) for generating preventive measures and tracking progress is essential to communicate the project's purpose, usage, and contributions. Below is a sample README template for your project:
 
 
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Usage](#usage)
-- [XAI Analysis](#xai-analysis)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
-
 ## Project Overview
 
 This deep learning project leverages the [BraTS (Brain Tumor Segmentation)](https://www.med.upenn.edu/cbica/brats2021/data.html) dataset for brain tumor detection, classification, and segmentation. In addition, it incorporates eXplainable AI (XAI) techniques to generate preventive measures and track patient progress.
@@ -47,10 +36,6 @@ To use this project for brain tumor detection, classification, and segmentation:
 
 1. Clone this repository to your local machine:
 
-   ```
-   git clone https://github.com/yourusername/yourrepository.git
-   ```
-
 2. Install the necessary dependencies as listed in the project's requirements file.
 
 3. Preprocess and prepare your own brain imaging data or utilize the BraTS dataset.
@@ -79,9 +64,8 @@ The project has achieved significant milestones in brain tumor detection, classi
 
 This project is a collaborative effort. We acknowledge and appreciate the contributions from the following individuals:
 
-- [Your Name](https://github.com/yourusername)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
+- Myself ( somuleelamadhav@gmail.com )
+- Garapati Sai Harshini ( garapatisaiharshini@gmail.com) 
 
 If you would like to contribute or collaborate on this project, please feel free to get in touch.
 
